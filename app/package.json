@@ -36,12 +36,13 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-node": "^1.0.0-next.78",
-		"symax": "^0.0.10",
 		"@tailwindcss/aspect-ratio": "^0.4.0",
 		"@tailwindcss/forms": "^0.5.2",
 		"@tailwindcss/typography": "^0.5.2",
 		"axios": "^0.27.2",
 		"cookie": "^0.4.1",
-		"lodash": "^4.17.21"
+		"larux": "^0.0.1",
+		"lodash": "^4.17.21",
+		"symax": "^0.0.10"
 	}
 }
